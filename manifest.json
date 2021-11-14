@@ -1,4 +1,9 @@
 {
+ "name": "Gioh Pets | Campo Limpo - Tour Virtual 360°",
+ "theme_color": "#FFFFFF",
+ "display": "fullscreen",
+ "start_url": "index.htm",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -36,10 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Gioh Pets | Campo Limpo - Tour Virtual 360°",
- "theme_color": "#FFFFFF",
- "display": "fullscreen",
- "background_color": "#FFFFFF",
- "description": "R. Hermes Ribeiro de Freitas, 59 - Campo Limpo, São Paulo - SP, 05793-260",
- "start_url": "index.htm"
+ "description": "R. Hermes Ribeiro de Freitas, 59 - Campo Limpo, São Paulo - SP, 05793-260"
 }
